@@ -1,22 +1,23 @@
-# 💻 Machine Learning Research Assistant | Developer | Innovator
-## Hi there! I'm Pranav Vinodh, a Machine Learning Research Assistant at Carnegie Mellon University and a proud developer at IRIS, NITK. I love turning ideas into impactful solutions, blending innovation with technology to tackle complex problems.
+## 💻 Machine Learning Research Assistant | Developer | Innovator
+### Hi there! I'm Pranav Vinodh, a Machine Learning Research Assistant at Carnegie Mellon University and a proud developer at IRIS, NITK. I love turning ideas into impactful solutions, blending innovation with technology to tackle complex problems.
 
-🏢 Work Experience
-Research Assistant
-Carnegie Mellon University · Part-time
-📅 Oct 2024 – Present · 3 months
-📍 Pittsburgh, Pennsylvania, United States · Remote
+### 🏢 Work Experience
+#### Research Assistant
+#### Carnegie Mellon University · Part-time
+#### 📅 Oct 2024 – Present · 3 months
+#### 📍 Pittsburgh, Pennsylvania, United States · Remote
 
-Under the guidance of Dr. Min Xu at Xulab, I am advancing computer vision and machine learning techniques for Cryo-ET and Cryo-EM images with Dr. Xueying Zhan. My work involves developing Deep Learning Methods to analyze biomedical images using cutting-edge libraries and platforms.
+* Under the guidance of Dr. Min Xu at Xulab, I am advancing computer vision and machine learning techniques for Cryo-ET and Cryo-EM images with Dr. Xueying Zhan. 
+* My work involves developing Deep Learning Methods to analyze biomedical images using cutting-edge libraries and platforms.
 
-Machine Learning Developer
-IRIS, NITK · Full-time
-📅 Aug 2024 – Present · 5 months
-📍 Mangaluru, Karnataka, India · On-site
+#### Machine Learning Developer
+#### IRIS, NITK · Full-time
+#### 📅 Aug 2024 – Present · 5 months
+#### 📍 Mangaluru, Karnataka, India · On-site
 
-🛡️ Developed a Profanity Checker for multiple forms submitted by students, ensuring data integrity and professionalism.
-🛠️ Currently working on a Natural Language to SQL Query System to analyze the companies visiting our college.
-  Tasks include data preparation, database design, NLP model implementation, and UI development.
+* 🛡️ Developed a Profanity Checker for multiple forms submitted by students, ensuring data integrity and professionalism.
+* 🛠️ Currently working on a Natural Language to SQL Query System to analyze the companies visiting our college.
+* Tasks include data preparation, database design, NLP model implementation, and UI development.
 
 ### 🛠️ Tech Stack
 👩‍💻 Programming Languages
