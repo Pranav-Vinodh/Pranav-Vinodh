@@ -20,7 +20,7 @@
 * Tasks include data preparation, database design, NLP model implementation, and UI development.
 
 ### 🛠️ Tech Stack
-👩‍💻 Programming Languages
+### 👩‍💻 Programming Languages
 🐍 Python
 | ⚡ JavaScript
 | 🖋️ C | C++
