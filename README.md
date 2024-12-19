@@ -21,31 +21,32 @@
 
 ### 🛠️ Tech Stack
 👩‍💻 Programming Languages
-🐍 Python
-⚡ JavaScript
-🖋️ C | C++
-☕ Java
-🛢️ SQL
+| 🐍 Python
+| ⚡ JavaScript
+| 🖋️ C | C++
+| ☕ Java
+| 🛢️ SQL
 
 ### 📚 Machine Learning & AI
 🤖 PyTorch
-🌊 TensorFlow
-🛠️ Scikit-learn
-🗣️ NLTK
-📊 NumPy | Pandas | Seaborn
-📉 Matplotlib
+| 🌊 TensorFlow
+| 🛠️ Scikit-learn
+| 🗣️ NLTK
+| 📊 NumPy | Pandas | Seaborn
+| 📉 Matplotlib
 
 ### 🌐 Web Development
-🌟 MERN Stack: MongoDB, Express.js, React.js, Node.js
-🔀 Next.js
-🎨 HTML | CSS
+| 🌟 MERN Stack: MongoDB, Express.js, React.js, Node.js
+| 🔀 Next.js
+| 🎨 HTML | CSS
 
 ### 🚀 Tools & Platforms
-🐳 Docker
-☁️ AWS | GCP
-🔧 Kubernetes
-📝 Jupyter Notebook
-📈 Git
+| 🐳 Docker
+| ☁️ AWS | GCP
+| 🔧 Kubernetes
+| 📝 Jupyter Notebook
+| 📈 Git
+| 📊 Kaggle
 
 ## 🚀 Featured Projects
 ### 🌕 Lunar Lander
