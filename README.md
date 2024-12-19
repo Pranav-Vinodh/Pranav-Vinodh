@@ -21,7 +21,7 @@
 
 ### 🛠️ Tech Stack
 👩‍💻 Programming Languages
-| 🐍 Python
+🐍 Python
 | ⚡ JavaScript
 | 🖋️ C | C++
 | ☕ Java
@@ -36,12 +36,12 @@
 | 📉 Matplotlib
 
 ### 🌐 Web Development
-| 🌟 MERN Stack: MongoDB, Express.js, React.js, Node.js
+🌟 MERN Stack: MongoDB, Express.js, React.js, Node.js
 | 🔀 Next.js
 | 🎨 HTML | CSS
 
 ### 🚀 Tools & Platforms
-| 🐳 Docker
+🐳 Docker
 | ☁️ AWS | GCP
 | 🔧 Kubernetes
 | 📝 Jupyter Notebook
