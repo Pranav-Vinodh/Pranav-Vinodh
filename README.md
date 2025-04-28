@@ -4,7 +4,7 @@
 ### 🏢 Work Experience
 #### Research Assistant
 #### Carnegie Mellon University · Part-time
-#### 📅 Oct 2024 – Present · 3 months
+#### 📅 Oct 2024 – Present 
 #### 📍 Pittsburgh, Pennsylvania, United States · Remote
 
 * Under the guidance of Dr. Min Xu at Xulab, I am advancing computer vision and machine learning techniques for Cryo-ET and Cryo-EM images with Dr. Xueying Zhan. 
@@ -12,7 +12,7 @@
 
 #### Machine Learning Developer
 #### IRIS, NITK · Full-time
-#### 📅 Aug 2024 – Present · 5 months
+#### 📅 Aug 2024 – Present
 #### 📍 Mangaluru, Karnataka, India · On-site
 
 * 🛡️ Developed a Profanity Checker for multiple forms submitted by students, ensuring data integrity and professionalism.
