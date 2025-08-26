@@ -81,12 +81,6 @@
       alt="Pranav's GitHub stats"
     />
   </a>
-  <a href="https://github.com/Pranav-Vinodh">
-    <img
-      src="https://streak-stats.demolab.com?user=Pranav-Vinodh&hide_border=true&theme=radical"
-      alt="GitHub Streak"
-    />
-  </a>
 </p>
 
 <p align="center">
