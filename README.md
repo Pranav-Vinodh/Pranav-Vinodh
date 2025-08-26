@@ -72,19 +72,39 @@
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pranav-Vinodh&show_icons=true&theme=radical" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Pranav-Vinodh&theme=radical&hide_border=false" alt="GitHub Streak" height="165"/>
+  <a href="https://github.com/Pranav-Vinodh">
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=Pranav-Vinodh&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=radical"
+      alt="Pranav's GitHub stats"
+    />
+  </a>
+  <a href="https://github.com/Pranav-Vinodh">
+    <img
+      src="https://streak-stats.demolab.com?user=Pranav-Vinodh&hide_border=true&theme=radical"
+      alt="GitHub Streak"
+    />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranav-Vinodh&layout=compact&theme=radical"/>
+  <a href="https://github.com/Pranav-Vinodh">
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranav-Vinodh&layout=compact&langs_count=8&hide_border=true&theme=radical"
+      alt="Top Languages"
+    />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-activity-graph.vercel.app/graph?username=Pranav-Vinodh&theme=react-dark&hide_border=true&area=true" alt="Activity Graph"/>
+  <a href="https://github.com/Pranav-Vinodh">
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=Pranav-Vinodh&hide_border=true&theme=react-dark"
+      alt="Activity Graph"
+    />
+  </a>
 </p>
 
 ---
@@ -103,14 +123,6 @@
 - 🧠 Supervised Machine Learning — *Stanford University (Coursera)*  
 - 🔗 Advanced Learning Algorithms — *Stanford University (Coursera)*  
 - 📈 Unsupervised Learning, Recommenders & RL — *Stanford University (Coursera)*  
-
----
-
-## 🌍 Languages  
-
-- English (Full Professional)  
-- Hindi (Elementary)  
-- Japanese (Elementary)  
 
 ---
 
